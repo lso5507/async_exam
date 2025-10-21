@@ -1,0 +1,8 @@
+.project
+.metadata
+.classpath
+.idea/
+.gradle
+**/build/**
+/out/
+gradle.properties
